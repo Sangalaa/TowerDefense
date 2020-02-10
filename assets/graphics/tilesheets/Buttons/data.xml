@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tilesheet>
+	<subimage name="start" x="0" y="0" width="625" height="270"/>
+	<subimage name="startHover" x="633" y="0" width="625" height="270"/>
+	<subimage name="restart" x="0" y="278" width="625" height="270"/>
+	<subimage name="restartHover" x="633" y="278" width="625" height="270"/>
+	<subimage name="ok" x="0" y="557" width="625" height="270"/>
+	<subimage name="okHover" x="633" y="557" width="625" height="270"/>
+	<subimage name="controls" x="0" y="836" width="625" height="270"/>
+	<subimage name="controlsHover" x="633" y="836" width="625" height="270"/>
+	<subimage name="exit" x="0" y="1115" width="625" height="270"/>
+	<subimage name="exitHover" x="633" y="1115" width="625" height="270"/>
+</tilesheet>

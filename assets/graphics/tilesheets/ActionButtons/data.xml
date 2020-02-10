@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tilesheet>
+	<subimage name="info" x="0" y="0" width="344" height="368"/>
+	<subimage name="infoHover" x="344" y="0" width="344" height="368"/>
+	<subimage name="trash" x="688" y="0" width="344" height="368"/>
+	<subimage name="trashHover" x="1032" y="0" width="344" height="368"/>
+	<subimage name="pause" x="1376" y="0" width="344" height="368"/>
+	<subimage name="pauseHover" x="0" y="368" width="344" height="368"/>
+	<subimage name="back" x="344" y="368" width="344" height="368"/>
+	<subimage name="backHover" x="688" y="368" width="344" height="368"/>
+	<subimage name="cross" x="1032" y="368" width="344" height="368"/>
+	<subimage name="crossHover" x="1376" y="368" width="344" height="368"/>
+	<subimage name="play" x="0" y="736" width="344" height="368"/>
+	<subimage name="playHover" x="344" y="736" width="344" height="368"/>
+	<subimage name="settings" x="688" y="736" width="344" height="368"/>
+	<subimage name="settingsHover" x="1032" y="736" width="344" height="368"/>
+	<subimage name="speed" x="1376" y="736" width="344" height="368"/>
+	<subimage name="speedHover" x="0" y="1104" width="344" height="368"/>
+	<subimage name="levelWin" x="344" y="1104" width="344" height="368"/>
+	<subimage name="gameWin" x="688" y="1104" width="344" height="368"/>
+	<subimage name="move" x="1032" y="1104" width="344" height="368"/>
+	<subimage name="moveHover" x="1376" y="1104" width="344" height="368"/>
+	<subimage name="audioOn" x="0" y="1472" width="344" height="368"/>
+	<subimage name="audioOnHover" x="344" y="1472" width="344" height="368"/>
+	<subimage name="audioOff" x="688" y="1472" width="344" height="368"/>
+	<subimage name="audioOffHover" x="1032" y="1472" width="344" height="368"/>
+</tilesheet>
