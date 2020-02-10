@@ -44,7 +44,7 @@ Assets.START_MENU_BACKGROUND = new Image();
 Assets.START_MENU_BACKGROUND.src = "assets/graphics/backgrounds/mainMenu.png";
 
 Assets.WINDOW = new Image();
-Assets.WINDOW.src = "assets/graphics/backgrounds/window.png";
+Assets.WINDOW.src = "assets/graphics/backgrounds/window.PNG";
 
 Assets.CONTROLS_MENU_BACKGROUND = new Image();
 Assets.CONTROLS_MENU_BACKGROUND.src = "assets/graphics/backgrounds/controls.png";
